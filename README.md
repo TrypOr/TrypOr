@@ -8,7 +8,7 @@ that decide whether an agent actually did the work.
   **[LinkedIn](https://www.linkedin.com/in/orestis-trypidakis-700311228/)**
 
   ### What I work on
-  - **Platform & Kubernetes:** k3s, Istio (mTLS), OPA Gatekeeper, Falco, Cosign, air-gapped supply
+  - **Platform & Kubernetes:** k3s, Falco, Cosign, air-gapped supply
   chains
   - **AI agent evaluation:** task design, multi-tier graders, anti-gaming, transcript analysis
   - **CI/CD & observability:** GitHub Actions, GitOps, Prometheus, Grafana, Loki, reproducible builds
