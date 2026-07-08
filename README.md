@@ -1,7 +1,6 @@
  ## Hi, I'm Orestis 👋
 
-  **DevOps & Platform Lead** in Crete, Greece. I lead a DevOps team at Datawise that evaluates frontier AI agents on real DevOps tasks. I write the evaluation tasks and their graders (Terminal-Bench format), review and refine them, and
-  represent us with the client.
+  **DevOps & Platform Lead** in Crete, Greece. 
 
   Most of my work comes down to one thing: checking that automated output is real. The graders I write catch agents that game the test instead of solving it, and a side project of mine (InvestLab) does the same for an LLM, refusing to
   show a number it can't trace back to a source.
